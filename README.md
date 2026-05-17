@@ -85,11 +85,6 @@ Har image ke liye ek window mein 8 results ek saath dikhte hain:
 Original | Grayscale | Bright Gray | Bright Color | Flipped | Blur | Sharpen | Edges
 ```
 
-
-## demo video
-- coming soon
----
-
 ## 📂 Project Structure
 
 ```
